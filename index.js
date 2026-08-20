@@ -1,1 +1,1 @@
-console.log(`this is version 5 updated`);
+console.log(`version 6`)
