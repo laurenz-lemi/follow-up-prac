@@ -1,1 +1,1 @@
-console.log(`hello index version 1`);
+console.log(`hello index version 2`);
